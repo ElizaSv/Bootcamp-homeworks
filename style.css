@@ -585,6 +585,9 @@ a:link {
 }
 
 @media screen and (max-width: 768px) {
+  header {
+    width: 100vw;
+  }
   .slider {
     transform: scale(0.7);
   }
